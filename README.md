@@ -1,4 +1,4 @@
-# rainbow-shell
+# RainbowSell
 
 
 ## Technologic Inovation Project (School Final Project)
